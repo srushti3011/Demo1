@@ -21,5 +21,7 @@ class MainActivity : AppCompatActivity() {
         //added new in feature 1 branch
         print("world")
         print("feature 2")
+        print("first small commit")
+        print("second small commit")
     }
 }
