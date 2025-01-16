@@ -20,5 +20,6 @@ class MainActivity : AppCompatActivity() {
         //add new things here (initially develop)
         //added new in feature 1 branch
         print("world")
+        print("feature 2")
     }
 }
