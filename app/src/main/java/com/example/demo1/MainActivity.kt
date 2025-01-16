@@ -17,5 +17,6 @@ class MainActivity : AppCompatActivity() {
             insets
         }
         println("hello")
+        //add new things here (initially develop)
     }
 }
